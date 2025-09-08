@@ -28,7 +28,7 @@ A responsive admin dashboard UI with a interface in the center and a chatbot ass
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/demnbroyougtgithub/admin-chatbot-dashboard.git
+git clone https://github.com/saurav-wankhade/admin-chatbot-dashboard.git
 cd admin-chatbot-dashboard
 ```
 
